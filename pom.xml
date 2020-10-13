@@ -11,7 +11,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <jmh.version>1.9.2</jmh.version>
     <javac.target>1.8</javac.target>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <uberjar.name>java-benchmarks</uberjar.name>
   </properties>
 
